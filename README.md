@@ -1,0 +1,2 @@
+# IoT-Based-Smart-Energy-Management-System
+The main aim of this project is to reduce energy consumption by using solar power in peak time.In this project, it automatically changes over to solar power at the time of 6 pm.It also monitor the power stored in the battery, check input current and voltage from the grid and display in the IoT platform and also we can control the home appliances through IoT.
